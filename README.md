@@ -34,3 +34,8 @@ In a separate pass, the author viewed the original alongside a signed lightness 
 The original trial contained 100 whole images and 674 native-resolution surface crops. This retrospective subset keeps every whole image and the 239 crops with identifiable lettering, numbers or deliberate graphics. The screen applied only to crops. Whole images and crops can show the same surface, and rates in this selected set depend on that sampling.
 
 All 339 PNGs match the SHA-256 digests recorded in the benchmark analysis. Each pair of vote counts was checked against the original six judgments. Expert Yes counts were checked against the manuscript for each view and each possible Yes-vote count from zero to six.
+
+## License
+
+- Repository code and documentation are licensed under the [MIT License](LICENSE).
+- The benchmark data in `benchmark.csv` and the PNGs in `images/` are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE-DATA).
